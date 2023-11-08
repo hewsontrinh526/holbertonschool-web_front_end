@@ -233,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
 .card-word:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
 }
-.card-work .card-inner {
+.card-work .card-title {
     text-align: center;
     margin: 0;
     opacity: 0;
@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none;
     padding-top: 45%;
 }
-.card-word .card-title::after {
+.card-word .card-title a::after {
     position: absolute;
     top: 0;
     right: 0;
