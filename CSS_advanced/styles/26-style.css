@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none;
 }
 .card-testimonial {
-    align: center;
+    text-align: center;
 }
 .card-testimonial .card-avatar {
     border-radius: 50%;
