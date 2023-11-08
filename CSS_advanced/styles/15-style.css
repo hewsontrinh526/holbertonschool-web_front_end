@@ -1,5 +1,6 @@
-@import "styles/normalize.css"
-* {
+@import "styles/normalize.css";
+
+*, *:before, *:after {
     box-sizing: border-box;
 }
 html {
